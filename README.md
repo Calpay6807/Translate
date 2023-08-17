@@ -14,4 +14,4 @@
 
 <h1>Project Gif</h1>
 
-![Project Gif](/js_redux_thunk/src/assets/img/translate.gif)
+![Project Gif](src/assets/img/translate.gif)
